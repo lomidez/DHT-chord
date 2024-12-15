@@ -38,8 +38,8 @@ This project is a scalable implementation of the Chord Distributed Hash Table (D
   python3 create_DHT_node.py <PORT> <BUDDY_PORT>
   ```
 
-### 2. Populate the DHT
-- Populate with NFL data:
+### 2. Populate the DHT with data
+- Populate with data:
   ```bash
   python3 add_data.py <NODE_PORT> <CSV_FILE>
   ```
